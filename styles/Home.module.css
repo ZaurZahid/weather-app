@@ -1,0 +1,18 @@
+.cities{
+    border-bottom: 2.5px solid black;
+}
+
+.city{
+    border: 1.5px solid black;
+    border-bottom: none;
+    background-color: rgba(128, 128, 128, 0.226);
+    user-select: none;
+}
+
+.active-city{
+    background-color: white
+}
+
+.app-name{
+    font-family: 'Honey-Lemon'
+} 

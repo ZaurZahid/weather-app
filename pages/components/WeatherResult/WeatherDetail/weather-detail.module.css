@@ -1,0 +1,18 @@
+.today-active{
+    background-color: aliceblue;
+    position: relative;
+}
+
+.today-badge {
+  background: red;
+  border-radius: 30px;
+  color: #fff;
+  content: '';
+  font-size: 14px;
+  margin-top: -10px;
+  min-width: 20px;
+  padding: 2px 5px;
+  position: absolute;
+  text-align: center;
+  right: 0
+}
